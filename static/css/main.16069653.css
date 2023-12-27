@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}body{align-items:center;background-color:#000;color:#fff;display:flex;flex-direction:column;height:100vh;justify-content:center;text-align:center}.container .number{font-size:6rem}.btns-container{display:flex;justify-content:space-around;margin-top:5rem;width:40rem}.btn-styles{background:#141517;border:none;border-radius:100px;color:#fff;cursor:pointer;font-size:2rem;padding:10px 20px}@media only screen and (max-width:600px){.container .number{font-size:4rem}.btn-styles{font-size:1.5rem}}
+/*# sourceMappingURL=main.16069653.css.map*/
